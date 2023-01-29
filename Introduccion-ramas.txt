@@ -1,0 +1,2 @@
+Esta es una introduccion de las ramas.
+Las ramas (branches) son la forma de hacer cambios en nuestro proyecto sin afectar el flujo de la forma de trabajo de la rama principal.
